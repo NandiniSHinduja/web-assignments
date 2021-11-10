@@ -1,0 +1,5 @@
+h1{
+color:#FFFFFF; /*this line changes the color of the text in the h1 tag */
+text-align:center; /* this line aligns the text in the h1 tag to the center */
+font-size:150%;  /* this line increases the font size of the text in the h1 tag by 150% */
+}
